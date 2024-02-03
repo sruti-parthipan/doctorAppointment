@@ -30,8 +30,6 @@ MedLog is a comprehensive web application built on the MERN stack, designed to s
 ### Database
 - MongoDB chosen for its efficiency in storing user, doctor, and appointment data, supporting a reliable and scalable data storage solution.
 
-## Getting Started
-To run the kMedLog application locally, follow these steps:
 
 
 
