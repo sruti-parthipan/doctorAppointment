@@ -1,8 +1,8 @@
-## MERN Stack Doctor Appointment Booking App
-# kMedLog Application - README
+## MERN Stack Doctor Appointment WEB App
+# MedLog Application - README
 
 ## Overview
-MedLog is a comprehensive web application developed on the MERN stack, designed to streamline and enhance the doctor-patient appointment process. The application addresses the complexities of medical appointment scheduling, ensuring a secure and efficient experience for both healthcare providers (doctors) and users (patients).
+MedLog is a comprehensive web application developed on the **MERN** stack, designed to streamline and enhance the doctor-patient appointment process. The application addresses the complexities of medical appointment scheduling, ensuring a secure and efficient experience for both healthcare providers (doctors) and users (patients).
 
 ## Features
 ### User Authentication
